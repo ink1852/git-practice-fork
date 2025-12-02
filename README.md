@@ -40,4 +40,3 @@ Add your Github username below:
 -   [x] nanmadol
 -   [x] jaehyuenjung!
 -   [x] Prosted
--   [x] ink1852!!! 2025. 12. 2
